@@ -1,0 +1,35 @@
+# h1 Viisikko
+
+Tässä raportissa on tiivistelmät raportin kirjoittamisesta, sivun luomisesta käyttäen Githubia ja Salt komennoista. Tiivistelmien jälkeen kuvaan Saltin ja Vagrantin kokeilua.
+
+## X - Tiivistelmät (Raportin kirjoittaminen ja FSF)
+
+Raportin kirjoittaminen:
+
+- Raportti tehdään sekä ulkopuolisia lukijoita, että itseä varten.
+- Raportin on oltava Toistettava. Jos toinen henkilö noudattaa samoja ohjeita, hän päätyy samaan lopputulokseen (ja samoihin virheisiin).
+- Raportin on oltava Täsmällinen. Komennot, kellonajat ja työkalut tulee olla tarkasti merkittyinä. Testien tulokset, sekä onnistumiset että epäonnistumiset, on syytä merkitä tarkkaan. Vikailmoitusten tarkka
+kopioiminen on välttämätöntä. 
+- Raportin on oltava Helppolukuinen. Huolellinen kieli synnyttää luottamusta lukijassa. Raportissa on hyvä myös muistaa mihin sitä ollaan kirjoittamassa (weppisivulle vs koulun valmiiseen pohjaan).
+- Lähdeviitteet tulee olla selkeästi merkitty (plagiointi on AINA tuomittavaa.)
+
+Create a Web Page Using Github:
+
+- 
+
+Run Salt Command Locally
+
+- Tällä
+  -
+
+
+## A - Hello Windows Salt World!
+
+### Työympäristö
+
+
+
+
+## Lähdeviitteet
+
+Karvinen, Tero, saatavilla 
