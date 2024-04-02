@@ -23,9 +23,18 @@ Run Salt Command Locally
   -
 
 
-## A - Hello Windows Salt World!
+## Pyhä Viisikko
 
-### Työympäristö
+### a) Hello Windows Salt World!
+
+2.4.2024 - 11.20:
+
+Koska raportin kirjoittaminen oli suhteellisen tuttua jo kurssilta "Linux-palvelimet", niin ehdin jo luennolla asentaa Saltin. Asentaminen sujui niinkin mielenkiintoisesti että latasin Saltin amd64 exe-paketti, 
+ajoin sen ja vastasin kaikkiin installerin kaikkiin kysymyksiin "Next". Salt tuli tätäen aennettua Windows-pohjaiselle koneelleni, sen ollessa käytössäni oleva pöytäkone.
+
+Tässä kohdassa oli myös tarkoitus näyttää että saltin asennus on onnistunut, ja seuraavassa näyttökaappauksessa on esimerkki tästä:
+
+![Add file: Upload](h1_2_SaltTest.png)
 
 
 
